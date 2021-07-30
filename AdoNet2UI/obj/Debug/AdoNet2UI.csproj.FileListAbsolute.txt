@@ -1,0 +1,10 @@
+C:\Users\mayan\source\repos\AdoNet2UI\bin\Debug\AdoNet2UI.exe.config
+C:\Users\mayan\source\repos\AdoNet2UI\bin\Debug\AdoNet2UI.exe
+C:\Users\mayan\source\repos\AdoNet2UI\bin\Debug\AdoNet2UI.pdb
+C:\Users\mayan\source\repos\AdoNet2UI\bin\Debug\AdoNet2DL.dll
+C:\Users\mayan\source\repos\AdoNet2UI\bin\Debug\AdoNet2DL.pdb
+C:\Users\mayan\source\repos\AdoNet2UI\obj\Debug\AdoNet2UI.csproj.AssemblyReference.cache
+C:\Users\mayan\source\repos\AdoNet2UI\obj\Debug\AdoNet2UI.csproj.CoreCompileInputs.cache
+C:\Users\mayan\source\repos\AdoNet2UI\obj\Debug\AdoNet2UI.csproj.CopyComplete
+C:\Users\mayan\source\repos\AdoNet2UI\obj\Debug\AdoNet2UI.exe
+C:\Users\mayan\source\repos\AdoNet2UI\obj\Debug\AdoNet2UI.pdb

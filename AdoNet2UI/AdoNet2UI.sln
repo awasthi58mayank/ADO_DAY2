@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet2UI", "AdoNet2UI.csproj", "{6A8E5A03-8769-4A83-A2E5-3CF50F066E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet2DL", "..\AdoNet2DL\AdoNet2DL.csproj", "{919401F2-F319-40CB-8C51-24042D8757A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8E5A03-8769-4A83-A2E5-3CF50F066E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8E5A03-8769-4A83-A2E5-3CF50F066E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8E5A03-8769-4A83-A2E5-3CF50F066E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8E5A03-8769-4A83-A2E5-3CF50F066E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919401F2-F319-40CB-8C51-24042D8757A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919401F2-F319-40CB-8C51-24042D8757A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919401F2-F319-40CB-8C51-24042D8757A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919401F2-F319-40CB-8C51-24042D8757A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37138EFB-D21C-4675-91C8-68B934D87F9B}
+	EndGlobalSection
+EndGlobal
