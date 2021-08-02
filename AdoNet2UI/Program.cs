@@ -14,7 +14,7 @@ namespace AdoNet2UI
             /* Class1 obj = new Class1();
               int rows;
               int rows1;
-              int result = (obj.GetAllCoursesDetails("ILSWTTI149", "Software", 85, "Sanya", "Hands-on", out rows));
+              int result = (obj.GetAllCoursesDetails("ILSWTTI149", "Software", 85, "XYZ", "Hands-on", out rows));
               // int result1 = (obj.DeleteCourse("ILSWTTI101", out rows));
               Console.WriteLine($"Value=" + result);
               Console.WriteLine(rows + "Rows Affected");
